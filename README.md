@@ -18,7 +18,7 @@ on other than gray color block then its shows game over.
 <img src="Screenshot/gameover1.jpg" width="270" height="535">
 <hr />
 
-### Game Over (On Wrong Tap)
+### Game Over (Wrong Tap)
 <img src="Screenshot/gameover.jpg" width="270" height="535">
 <hr />
 
